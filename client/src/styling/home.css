@@ -1,0 +1,36 @@
+
+
+.cover {
+    margin-left: 3.5%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    width: 20em;
+    z-index: -1;  
+    margin-top: 5%;
+    margin-bottom: 2%;
+    padding-left: 1%;
+    padding-right: 1%;
+ }
+
+.year {
+    position: absolute;
+    margin-top: -1%;
+    font-family: 'Roboto', sans-serif;
+    text-shadow: 2px 5px 2px black;
+    font-size: 2.5em;
+    color: #eceaea;
+    opacity: 95%;
+    letter-Spacing: -2px;
+    font-weight: 600;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#s1 {
+    position: relative;
+    font-size: 70%;
+    color: #eceaea;
+}
